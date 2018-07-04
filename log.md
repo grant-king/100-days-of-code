@@ -1,9 +1,11 @@
 # 100 Days Of Code - Log
 Day 0: July 1, 2018
 
-**Today's Progress:** Practiced on CodeWars, worked on new "Transcripton" repository
+**Today's Progress:** Practiced on CodeWars, worked on new *Transcription* repository
 
-**Thoughts:** Started with a simple exercise to get in the habit of daily practice on codewars. Published new *Transcription* repository.
+**Thoughts:** Started with a simple exercise to get in the habit of daily practice on CodeWars.
+
+Published new *Transcription* repository that I have been working on.
 
 **Link to work:**
 
@@ -18,12 +20,25 @@ Day 0: July 1, 2018
  **Thoughts:** I hope working on CodeWars will help me improve my Python practices.
 
  The transcription notebook can now export to .xlsx formatted in a way that is very close to the goal output.
- 
+
  **Link to work:**
 
  https://www.codewars.com/kata/reviews/56257b3f27e918efed00017c/groups/5b3a6e55615a90b8b3000f74
 
 https://github.com/grant-king/Transcription
+
+Day 2: July 3, 2018
+
+**Today's Progress:** Practiced on CodeWars, more progress with *Transcription*
+
+**Thoughts:** I am enjoying starting with a simple CodeWars exercise to get going. Today's was a reminder of basic array operations.
+
+**Link to work:**
+
+https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/57aa4a6672292d4e75001317
+
+https://github.com/grant-king/Transcription
+
 <!---
 Day x: July 2, 2018
 
