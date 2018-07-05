@@ -33,12 +33,22 @@ Day 2: July 3, 2018
 
 **Thoughts:** I am enjoying starting with a simple CodeWars exercise to get going. Today's was a reminder of basic array operations.
 
+Trying to figure out how to get transcription notebook to output a properly formatted file. Reading through the docs of xlsxwriter and experimenting with notebook.
+
 **Link to work:**
 
 https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/57aa4a6672292d4e75001317
 
 https://github.com/grant-king/Transcription
 
+Day 3: July 4, 2018
+
+**Today's Progress:** Jumped straight into *Transcription*, continued studying xlsxwriter and experimenting with various formatting options.
+
+**Thoughts:** Transcription notebook accomplishes the output goal; except for strange results from the combination function under certain conditions. I've asked client to send more input examples to figure out what is going wrong.
+
+**Link to work:**
+https://github.com/grant-king/Transcription
 <!---
 Day x: July 2, 2018
 
