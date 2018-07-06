@@ -45,10 +45,19 @@ Day 3: July 4, 2018
 
 **Today's Progress:** Jumped straight into *Transcription*, continued studying xlsxwriter and experimenting with various formatting options.
 
-**Thoughts:** Transcription notebook accomplishes the output goal; except for strange results from the combination function under certain conditions. I've asked client to send more input examples to figure out what is going wrong.
+**Thoughts:** Transcription notebook almost accomplishes the output goal; presenting strange results from the combination function under certain conditions. I've asked client to send more input examples to figure out what is going wrong.
 
 **Link to work:**
 https://github.com/grant-king/Transcription
+
+Day 4: July 5, 2018
+
+**Today's Progress:** Completed a 5 kyu exercise on CodeWars.
+
+**Thoughts:** This is my first 5kyu exercise to complete. This was on array operations and involved recursively examining and removing items from a list if they appeared in particular combinations. It seems like my approach is semi common, but it was really neat to see how some other people solved it with just a few lines. I expected to see a lot of formal recursive functions but haven't come across any. 
+
+**Link to work:**
+https://www.codewars.com/kata/reviews/5512f1242b34d80e9a00020e/groups/5b3ea476a5ba9b63dc00235f
 <!---
 Day x: July 2, 2018
 
