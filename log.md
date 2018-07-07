@@ -68,6 +68,15 @@ Day 5: July 6, 2018
 **Link to work:**
 https://github.com/grant-king/Transcription
 
+Day 6: July 7, 2018
+
+**Today's Progress:** CodeWars exercises and fiddling with re module
+
+**Thoughts:** Attempting to practice string manipulation and finished one kata but couldn't fork to a simpler solution for some reason. I used re but wanted to try it with just str.translate. Spent a lot of time trying to get something simple to work. Very frustrating but will try again tonight.
+
+**Link to work:**
+https://www.codewars.com/kata/reviews/54587841888e98707300020b/groups/5b4147418457f5f030000b4f
+
 <!---
 Day x: July 2, 2018
 
