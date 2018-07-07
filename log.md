@@ -54,10 +54,20 @@ Day 4: July 5, 2018
 
 **Today's Progress:** Completed a 5 kyu exercise on CodeWars.
 
-**Thoughts:** This is my first 5kyu exercise to complete. This was on array operations and involved recursively examining and removing items from a list if they appeared in particular combinations. It seems like my approach is semi common, but it was really neat to see how some other people solved it with just a few lines. I expected to see a lot of formal recursive functions but haven't come across any. 
+**Thoughts:** This is my first 5kyu exercise to complete. This was on array operations and involved recursively examining and removing items from a list if they appeared in particular combinations. It seems like my approach is semi common, but it was really neat to see how some other people solved it with just a few lines. I expected to see a lot of formal recursive functions but haven't come across any.
 
 **Link to work:**
 https://www.codewars.com/kata/reviews/5512f1242b34d80e9a00020e/groups/5b3ea476a5ba9b63dc00235f
+
+Day 5: July 6, 2018
+
+**Today's Progress:** Worked on *Transcription*
+
+**Thoughts:** Now have new Design Manager export excel sheet. This time the first column that lists the client has an additional 'project' value after each name. Very frustrated with a bug.
+
+**Link to work:**
+https://github.com/grant-king/Transcription
+
 <!---
 Day x: July 2, 2018
 
