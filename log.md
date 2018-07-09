@@ -77,15 +77,23 @@ Day 6: July 7, 2018
 **Link to work:**
 https://www.codewars.com/kata/reviews/54587841888e98707300020b/groups/5b4147418457f5f030000b4f
 
+
+Day 7: July 8, 2018
+
+**Today's Progress:** Worked on a notebook exploring optimization using gradient descent.
+
+**Thoughts:** Watching these videos (https://youtu.be/xRJCOz3AfYY) by Siraj Raval for a second time around and plan to make a notebook for each. The theory and math makes sense but am having a hard time following a bug through the initial functions that graph fake data and calculate associated errors.
+
+**Link to work:**
+https://github.com/grant-king/The_Math_of_Intelligence/blob/master/week_1/main.ipynb
+
 <!---
-Day x: July 2, 2018
 
 **Today's Progress:**
 
 **Thoughts:**
 
 **Link to work:**
-
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
