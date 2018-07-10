@@ -87,13 +87,25 @@ Day 7: July 8, 2018
 **Link to work:**
 https://github.com/grant-king/The_Math_of_Intelligence/blob/master/week_1/main.ipynb
 
+Day 8: July 9, 2018
+
+**Today's Progress:** Attempting to implement gradient descent, started new course to supplement MOI series.
+
+**Thoughts:** After working through Siraj's first code challenge for a while yesterday and today, I realize that I need some supplemental foundations to my understanding of the theory behind ML. A lot of yesterday's time was spent trying to figure out some nonsense I had written while attempting to implement gradient descent. Today I realized that what I was doing wasn't logical in the first place. I fixed the notebook to make sense, but it is far from finished and I need more background.
+
+I found a course on Coursera called Applied Machine Learning in Python that seems to be right around my current level of understanding. This course has some prerequisites that I have met on DataCamp. It looks like I will be learning about regression in module 2, so expect to be able to complete these MOI coding challenges by then.
+
+**Link to work:**
+
 <!---
+Day x: July x, 2018
 
 **Today's Progress:**
 
 **Thoughts:**
 
 **Link to work:**
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
