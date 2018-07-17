@@ -131,6 +131,43 @@ Day 11: July 12, 2018
 
 **Link to work:**
 https://github.com/grant-king/MOI_progress
+
+Day 12: July 13, 2018
+
+**Today's Progress:** Continued module 2 of Applied Machine Learning on Coursera
+
+**Thoughts:** Another quick day, but got through making a simple classifier and progress on Module 2. I forgot to update this on this day.
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
+
+Day 13: July 14, 2018
+
+**Today's Progress:** Learned about ridge, lasso, and polynomial regression and normalization in module 2 of Applied Machine Learning Coursera course.
+
+**Thoughts:** Very warm weekend day makes it hard to study, I need to shift schedule to do more at night. I feel like I grasp the logic behind regression algorithms but am still learning something new with each video of the course. This module describes the purpose behind some practices I've learned about for data preparation and feature normalization. The concept employed by Siraj in the beginning of his Math of Intelligence series, of measuring error as a square of sums per model, makes much more sense now. The reasons for measuring a model's total error as a sum of squared errors makes much more sense now.
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
+
+Day 14: July 15, 2018
+
+**Today's Progress:** Continued module 2 of Applied Machine Learning Coursera course
+
+**Thoughts:** This course is visiting many semi-familiar concepts and explaining the reasoning behind them. This section covered logistic regression and SVM linear classifiers.
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
+
+Day 15: July 16, 2018
+
+**Today's Progress:** CodeWars practice, continuing through module 2 of Applied Machine Learning Coursera course, continuing DataCamp course on Bokeh library
+
+**Thoughts:** The Coursera course is getting to be a little monotonous so added CodeWars and DataCamp activities today. Coursera is covering multi-class classification using linear models. DataCamp was pleasantly light in comparison and gave me an idea to work on the Transcription notebook as a Bokeh app, but still debating if that would be useful. CodeWars gave a simple word reversing exercise that went quickly.
+
+**Link to work:**
+https://www.codewars.com/kata/reviews/55401901b8a14241e4000048/groups/5b4d7bd29d2b0bfbf7000fd6
+
 <!---
 
 Day x: July x, 2018
