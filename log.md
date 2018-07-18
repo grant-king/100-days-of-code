@@ -168,6 +168,14 @@ Day 15: July 16, 2018
 **Link to work:**
 https://www.codewars.com/kata/reviews/55401901b8a14241e4000048/groups/5b4d7bd29d2b0bfbf7000fd6
 
+Day 16: July 17, 2018
+
+**Today's Progress:** Finished module 2 of Applied Machine Learning Coursera course. Continued Bokeh tutorial at DataCamp.
+
+**Thoughts:** I hoped to work on more today, but am glad to be pushing through the Coursera course. Bokeh isn't the most exciting thing right now, should work on incorporating something into Transcription notebook tomorrow.
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
 <!---
 
 Day x: July x, 2018
