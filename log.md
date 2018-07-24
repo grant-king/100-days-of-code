@@ -209,6 +209,25 @@ Day 20: July 21, 2018
 
 **Thoughts:** I want to use Bokeh with this additional resource to help dynamically visualize how tweaking different parameters of each ML method can alter the outcome.
 
+Day 21: July 22, 2018
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
+
+**Today's Progress:** Continued Bokeh tutorial at DataCamp. Continued module 3 of Applied Machine Learning at Coursera.
+
+**Thoughts:** Quick day of studying, worked on how to use Bokeh, to integrate with tools from Coursera course.
+
+**Link to work:**
+https://github.com/grant-king/MOI_progress
+
+Day 22: July 23, 2018
+
+**Today's Progress:** Continued DataCamp tutorial on Bokeh. Began planning how to integrate some bokeh features into *Transcription*.
+
+**Thoughts:** Stuck to Bokeh today to try to get through the last bit.
+Have half of the case study left to do there.
+
 **Link to work:**
 https://github.com/grant-king/MOI_progress
 <!---
