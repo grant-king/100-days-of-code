@@ -249,6 +249,62 @@ I have been staying away from CodeWars or other generalized practice sites for s
 
 **Link to work:**
 
+Day 25: July 26, 2018
+
+**Today's Progress:** Started statistical Thinking in Python at Datacamp. Watched some of Siraj's videos for direction and ideas.
+
+**Thoughts:** I am anxious to get on to more exciting ML projects but feel like I should try to push through the rest of DataCamp lessons as soon as possible. Watching some of Siraj's videos today helped me think more about my curriculum plan; it seems the quickest way to reaching the point where I am comfortable with ML may be through completing my remaining courses on DataCamp. I made a lot of progress in the course today but know my speed of progress will slow down with more difficult content coming up. I want to make daily progress there a priority, and am revising my approach to studying to get through the content more quickly. Once I get through the remainder of this track I should be comfortable enough with the concepts to start working on more tangible projects.
+
+**Link to work:**
+
+Day 26: July 27, 2018
+
+**Today's Progress:** Continued in Statistical Thinking at DataCamp. Worked in new Mavenlink project planning app to build curriculum plan.
+
+**Thoughts:** Statistical Thinking was slow today. I really like the Mavenlink app for project planning. I've added some DataCamp, Coursera, and YT courses as tasks and milestones in the project I've named 'curriculum'.
+
+**Link to work:**
+
+Day 27: July 28, 2018
+
+**Today's Progress:** Continued Statistical Thinking at DataCamp
+
+**Thoughts:** I couldn't get through much at DC today. Frustrated by silly mistakes.
+
+**Link to work:**
+
+Day 28: July 29, 2018
+
+**Today's Progress:**
+
+**Thoughts:** Day off for off day.
+
+**Link to work:**
+
+Day 29: July 30, 2018
+
+**Today's Progress:** Continued Statistical Thinking at DataCamp
+
+**Thoughts:** Today I finished the 3rd of 4 total modules for the first course of Statistical Thinking in Python at DataCamp. This course has extensively used numpy and np.random and included functions for creating various types of distributed variables. I feel comfortable with basic Statistics but am having a hard time grasping the utility of some of these functons. I may be overcomplicating things and these could just be intentionally vague and general ways to generate randomized data. Hopefully the next section makes this more clear.
+
+**Link to work:**
+
+Day 30: July 31, 2018
+
+**Today's Progress:** Continued Statistical Thinking at DataCamp. Started investigating side project to add to *Transcription*.
+
+**Thoughts:** Wanted to work on Transcription but ran out of time today. Almost through the first half of Statistical Thinking. After the second half I will be very excited to jump into the ML tutorials at DataCamp and elsewhere.
+
+**Link to work:**
+
+Day 31: August 1, 2018
+
+**Today's Progress:** Briefly worked on Statistical Thinking at DataCamp. Watched some Siraj on different cloud providers and their services.
+
+**Thoughts:** Sluggish on the Statistical Thinking today but very close to through. Siraj has some new videos on cloud providers. I had been keeping an eye on PC parts that might go into an ML build but am very glad to see that all extra computational power can be outsourced. Siraj videos covered some of the many Google Cloud services and AWS. I have also recently seen him do some things with FloydHub, which is apparently better for beginners so probably where I will start.
+
+**Link to work:**
+
 <!---
 
 Day x: July x, 2018
