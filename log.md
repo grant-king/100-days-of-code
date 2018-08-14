@@ -403,6 +403,15 @@ Day 42: August 12, 2018
 DataCamp is good to quickly get going with many libraries but I need to remember to treat it as an incredibly helpful Python library reference and not something that will explain why I'm doing the things it is showing me how to do.
 
 **Link to work:**
+
+Day 43: August 13, 2018
+
+**Today's Progress:** Exercism practice. Researching YouTube Data API.
+
+**Thoughts:** There are a lot of good exercism exercises for me to try. Also working on project for YouTube API, planning to use to perform nlp with video captions or possibly with comments. Will likely have new repository for that soon.
+
+**Link to work:**
+
 <!---
 
 Day x: July x, 2018
