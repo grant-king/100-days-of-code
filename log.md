@@ -443,6 +443,29 @@ Day 47: August, 17 2018
 
 
 **Link to work:**
+Day 48: August 18, 2018
+
+**Today's Progress:** Researched Flask. Continued on exercism.io
+
+**Thoughts:** Found a series on YouTube by Corey Schafer about Flask. I really like the Exercism exercises.
+
+**Link to work:**
+
+Day 49: August 19, 2018
+
+**Today's Progress:** Continued on exercism.io
+
+**Thoughts:** Just did these practice exercises Today. It is really helpful.
+
+**Link to work:**
+
+Day 50: August 20, 2018
+
+**Today's Progress:** Exploring datasets on Kaggle. Continued in Supervised Learning at DataCamp
+
+**Thoughts:** I need to get back on track working daily at DataCamp and get the career track off the list so I can move on. After this I think that it would be a good idea to find another paid course, likely one of the automated transportation courses at Udacity.
+
+**Link to work:**
 <!---
 
 Day x: July x, 2018
