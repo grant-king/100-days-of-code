@@ -535,9 +535,32 @@ Day 60: August 30, 2018
 
 **Link to work:**
 
+Day 61: August 31, 2018
+
+**Today's Progress:** Friday off
+
+**Thoughts:**
+
+**Link to work:**
+
+Day 62: September 1, 2018
+
+**Today's Progress:** Worked with infinite-monkey repository and made script to make text file into tts mp3
+
+**Thoughts:** Not directly related to studies, but good to have.
+
+**Link to work:**
+
+Day 63: September 2, 2018
+
+**Today's Progress:** Continued with Fundamentals of NLP at DataCamp. Continued with Pandas maps workbook on Kaggle.
+
+**Thoughts:** Not a ton of time to work on stuff today but am glad to get the practice in. I am bouncing between a few courses lately but not making great headway in them. I need to figure out if focused tenacity or distract and return is a better plan there.
+
+**Link to work:**
 <!---
 
-Day x: August x, 2018
+Day x: September x, 2018
 
 **Today's Progress:**
 
