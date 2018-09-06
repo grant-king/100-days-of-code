@@ -558,6 +558,20 @@ Day 63: September 2, 2018
 **Thoughts:** Not a ton of time to work on stuff today but am glad to get the practice in. I am bouncing between a few courses lately but not making great headway in them. I need to figure out if focused tenacity or distract and return is a better plan there.
 
 **Link to work:**
+
+Day 64: September 3, 2018
+
+**Today's Progress:** Continued with NLP Fundamentals at DataCamp.
+
+Day 65: September 4, 2018
+
+**Today's Progress:** Continued with NLP Fundamentals at DataCamp.
+
+Day 66: September 5, 2018
+
+**Today's Progress:** Continued with NLP Fundamentals and Supervised Learning at DataCamp.  
+
+**Thoughts:** Researching remote contract jobs, signed up with freelancer as it seems like a slightly easier site to find relevant job postings, compared to upwork.
 <!---
 
 Day x: September x, 2018
