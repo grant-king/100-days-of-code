@@ -606,6 +606,36 @@ Day 71: September 10, 2018
 
 **Thoughts:** The third Django introduction tutorial at the Django official documentation got to be more abstract than I was comfortable with. I switched over to a more detailed explanation at this simpleisbetterthancomplex blog. I really like the tutorial and will continue making the sample discussion board app.
 
+Day 72: September 11, 2018
+
+**Today's Progress:** Continued Django tutorial at simpleisbetterthancomplex
+
+**Thoughts:** This Django tutorial is moving along, although I got caught up trying to restart everything after changing an unrelated Windows setting. I am glad to have installed Django in an Anaconda environment as it was very easy to create another environment, repeat all my steps and realize where the error was. Complicating this discovery was another error having to do with a required keyword argument in the ForeignKey method within models definition file. the method was missing a now-required on_delete argument, here corrected for example: models.ForeignKey(User, related_name='topics', on_delete=models.CASCADE)
+
+Day 72: September 12, 2018
+
+**Today's Progress:** Continued Django tutorial at simpleisbetterthancomplex
+
+**Thoughts:** Now learning about testing features in second Django tutorial. Django's template system looks like it will be very useful as well.
+
+Day 73: September 13, 2018
+
+**Today's Progress:** Continued Django tutorial and finished second installment. Started part 3.
+
+Day 74: September 14, 2018
+
+**Today's Progress:** Researched serial number analysis methods and implemented in pyhton.
+
+**Thoughts:** Added a notebook with this script to exercises repository. I don't have enough serial numbers to test what I made this for yet but it seems like it will work when I do.
+
+**Link to work:**
+https://github.com/grant-king/exercises
+
+Day 75: September 15, 2018
+
+**Today's Progress:** Continued with third Django tutorial at simpleisbetterthancomplex.
+
+**Thoughts:** This segment is covering how Django handles URL routing and how to use tests.
 <!---
 
 Day x: September x, 2018
