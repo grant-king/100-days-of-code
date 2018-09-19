@@ -636,6 +636,26 @@ Day 75: September 15, 2018
 **Today's Progress:** Continued with third Django tutorial at simpleisbetterthancomplex.
 
 **Thoughts:** This segment is covering how Django handles URL routing and how to use tests.
+
+Day 76: September 16, 2018
+
+**Today's Progress:** Initial stages of planning project.
+
+**Thoughts:** Thinking to make an OCR application that can read titles of movies from picture of a collection and add each to an online service that keeps track of purchased titles.
+
+Day 76: September x, 2018
+
+**Today's Progress:** Continued with Django tutorial.
+
+**Thoughts:** Did not get far with tutorial today; concepts are going outside of how I can imagine using it in the near future.
+
+Day 77: September x, 2018
+
+**Today's Progress:** Continued Django tutorial part 3 at simpleisbetterthancomplex. Continued last section of Supervised learning at DataCamp.
+
+**Thoughts:** With progress snailing in the Django realm I need to pick back up with DataCamp, Kaggle, and Exercism or similar practice.  
+
+
 <!---
 
 Day x: September x, 2018
